@@ -1,0 +1,42 @@
+MST 1 has a min dE of 1.1958235655814793 compared to MST 1
+patch : 550
+MST 1 has a min dE of 0.9851223274294421 compared to MST 2
+patch : 529
+MST 2 has a min dE of 1.244425168501504 compared to MST 1
+patch : 515
+MST 2 has a min dE of 1.2100851209729022 compared to MST 2
+patch : 494
+MST 2 has a min dE of 3.393113909081157 compared to MST 3
+patch : 504
+MST 3 has a min dE of 3.9149015313287254 compared to MST 1
+patch : 483
+MST 3 has a min dE of 2.5758621857545094 compared to MST 2
+patch : 468
+MST 3 has a min dE of 1.2792896466398866 compared to MST 3
+patch : 478
+MST 3 has a min dE of 2.881241746192087 compared to MST 4
+patch : 480
+MST 4 has a min dE of 2.4310125462448693 compared to MST 3
+patch : 444
+MST 4 has a min dE of 0.9965711213957605 compared to MST 4
+patch : 446
+MST 5 has a min dE of 0.935393500084323 compared to MST 5
+patch : 397
+MST 6 has a min dE of 0.9652528166237038 compared to MST 6
+patch : 608
+MST 6 has a min dE of 4.998352228484903 compared to MST 7
+patch : 605
+MST 7 has a min dE of 1.1918158414788733 compared to MST 7
+patch : 344
+MST 7 has a min dE of 3.184647233211239 compared to MST 8
+patch : 339
+MST 8 has a min dE of 0.5219942528419254 compared to MST 8
+patch : 302
+MST 8 has a min dE of 4.617919120123261 compared to MST 9
+patch : 306
+MST 9 has a min dE of 0.44022380671653855 compared to MST 9
+patch : 269
+MST 9 has a min dE of 4.290567444989067 compared to MST 10
+patch : 284
+MST 10 has a min dE of 0.4052024185515185 compared to MST 10
+patch : 635

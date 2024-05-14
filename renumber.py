@@ -9,7 +9,7 @@ def replace_first_item(filename, new_filename):
                 if items:
                     try:
                         first_item = int(items[0])
-                        new_first_item = first_item + 38
+                        new_first_item = first_item + 589
                         items[0] = str(new_first_item)
                         new_line = ' '.join(items) + '\n'
                         new_file.write(new_line)
@@ -25,7 +25,7 @@ def replace_first_item(filename, new_filename):
         return "File not found. Please provide valid filenames."
 
 # Example usage:
-input_filename = 'cutFinalOuput.txt'
-output_filename = 'newOutput.txt'
+input_filename = '10 and 6.txt'
+output_filename = '10 and 6.txt'
 result = replace_first_item(input_filename, output_filename)
 print(result)

@@ -1,0 +1,22 @@
+1-94 valid
+95-132 does not exist
+133-196 valid
+197-228 mst 5
+229-232 white
+233-256 mst10 botched
+257 white
+258-289 mst9
+290 white
+291-322 mst8
+323 white
+324-355 mst7
+356-357 white
+358-388 mst6 botched
+389-390 white
+391-422 mst5
+423-425 white
+426-457 mst4
+458-489 mst3
+490-521 mst2
+522-553 mst1
+554-585 mst10 botched

@@ -1,0 +1,1 @@
+if you split by \t and ' ', the [0] element is the sample number, [1-6] can be ignored [7-9] are Lab, and [10-48] are spectral (360-740 nm)
